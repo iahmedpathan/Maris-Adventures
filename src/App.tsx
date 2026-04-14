@@ -85,8 +85,8 @@ const products = [
     name: "Windbreaker Jacket",
     price: 95,
     images: {
-      "White": "/assets/jacketblue.png",
-      "Blue": "/assets/jacketwhite.png"
+      "White": "/assets/jacketwhite.png",
+      "Blue": "/assets/jacketblue.png"
     },
     colors: ["White", "Blue"],
     sizes: ["S", "M", "L", "XL", "2XL"]
